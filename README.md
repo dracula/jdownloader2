@@ -18,7 +18,7 @@
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-[![ixanza](https://github.com/ixanza.png?size=20)](https://github.com/ixanza) |
+[![ixanza](https://github.com/ixanza.png?size=5)](https://github.com/ixanza) |
 --- |
 [ixanza](https://github.com/ixanza) |
 
