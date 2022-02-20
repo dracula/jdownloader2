@@ -1,20 +1,26 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [JDownloader2](https://jdownloader.org/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [JDownloader2](https://jdownloader.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./JDownloader2Downloads.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+1) In JDownloader2 go to Settings > Advanced Settings
+
+2) Search for `GraphicalUserInterfaceSettings: Look And Feel Theme` and change the value from Default to `FLATAF_DRACULA`
+
+3) Download the `FlatDraculaLAF.json` file and place it in `JDownloader\cfg\laf\`
+
+4) Restart JDownloader2
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![ixanza](https://github.com/ixanza.png?size=100)](https://github.com/ixanza) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[ixanza](https://github.com/ixanza) |
 
 ## License
 
