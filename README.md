@@ -2,21 +2,15 @@
 
 > A dark theme for [JDownloader2](https://jdownloader.org/).
 
-![Screenshot](./JDownloader2Downloads.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-1) In JDownloader2 go to Settings > Advanced Settings
-
-2) Search for `GraphicalUserInterfaceSettings: Look And Feel Theme` and change the value from Default to `FLATAF_DRACULA`
-
-3) Download the `FlatDraculaLAF.json` file and place it in `JDownloader\cfg\laf\`
-
-4) Restart JDownloader2
+All instructions can be found at [draculatheme.com/jdownloader2](https://draculatheme.com/jdownloader2).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/jdownloader2/graphs/contributors).
 
 [![ixanza](https://github.com/ixanza.png?size=5)](https://github.com/ixanza) |
 --- |
