@@ -14,5 +14,5 @@ Download using the [GitHub .zip download](https://github.com/dracula/jdownloader
 
 1. In JDownloader2 go to Settings > Advanced Settings
 2. Search for `GraphicalUserInterfaceSettings: Look And Feel Theme` and change the value from Default to `FLATLAF_DRACULA`
-3. Get the `FlatDarculaLAF.json` file and place it in `JDownloader\cfg\laf\` (Create the folder structure if it doesn't exist). 
+3. Get the `FlatDarculaLaf.json` file and place it in `JDownloader\cfg\laf\` (Create the folder structure if it doesn't exist). 
 4. Restart JDownloader2
